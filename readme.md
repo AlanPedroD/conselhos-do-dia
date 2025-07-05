@@ -16,8 +16,8 @@ Aplicação simples que consome a [API Advice Slip](https://api.adviceslip.com/)
 
 ## 🔗 Acesse o projeto
 
-➡️ [Veja online](https://seu-usuario.github.io/seu-repositorio/)  
+➡️ [Veja online](https://alanpedrod.github.io/conselhos-do-dia/)  
 
-<!-- ## 📸 Prévia
+<!-- ## 📸 Prévia -->
 
-![print do projeto](./print.png) -->
+<!-- ![print do projeto](./print.png) -->
